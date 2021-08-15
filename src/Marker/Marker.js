@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Marker.scss';
+import './Marker.css';
 
 function Marker() {
 

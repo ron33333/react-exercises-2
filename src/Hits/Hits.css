@@ -1,0 +1,9 @@
+.Hits h3 {
+  margin: 0;
+}
+
+.Hits code {
+  background: #eeeeee;
+  font-size: 12px;
+  line-height: 0.9em;
+}

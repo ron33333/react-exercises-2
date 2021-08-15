@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Students.scss';
+import './Students.css';
 
 function Students() {
 

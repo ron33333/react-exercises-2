@@ -1,0 +1,19 @@
+.Marker p {
+  margin-top: 0;
+}
+
+.Marker input {
+  font-size: 16px;
+}
+
+.Marker .marker {
+  background: yellow;
+}
+
+.Marker ul {
+  margin-bottom: 0;
+}
+
+.Marker ul li {
+  line-height: 1.5em;
+}

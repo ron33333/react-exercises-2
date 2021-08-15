@@ -1,5 +1,5 @@
 import React from 'react';
-import './Hits.scss';
+import './Hits.css';
 
 function Hits() {
 	return (

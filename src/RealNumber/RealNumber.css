@@ -1,0 +1,28 @@
+.RealNumber p {
+  margin-top: 0;
+}
+
+.RealNumber .text-box {
+  margin-top: 15px;
+  padding: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  border: 2px solid #333333;
+  outline: none;
+}
+
+.RealNumber .value--valid {
+  color: green;
+}
+
+.RealNumber .value--invalid {
+  color: #c90d0d;
+}
+
+.RealNumber button {
+  padding: 5px;
+  font-size: 16px;
+  border: 2px solid #333333;
+  margin-left: 2px;
+  outline: none;
+}

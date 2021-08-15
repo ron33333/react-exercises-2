@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.scss';
+import './App.css';
 import Toggle from './Toggle/Toggle';
 import ColorName from './ColorName/ColorName';
 import Students from './Students/Students';

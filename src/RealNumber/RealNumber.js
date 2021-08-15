@@ -1,5 +1,5 @@
 import React from 'react';
-import './RealNumber.scss';
+import './RealNumber.css';
 
 function RealNumber() {
 	return (

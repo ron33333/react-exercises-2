@@ -1,0 +1,10 @@
+.Timer h3 {
+  margin: 0;
+}
+
+.Timer__value {
+  text-align: center;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 18px;
+}

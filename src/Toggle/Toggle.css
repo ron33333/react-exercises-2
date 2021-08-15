@@ -1,0 +1,16 @@
+.Toggle {
+  text-align: center;
+}
+
+.Toggle p {
+  margin-top: 0;
+}
+
+.Toggle__logo-wrapper {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Toggle__logo-wrapper img {
+  width: 140px;
+}

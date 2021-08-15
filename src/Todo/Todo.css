@@ -1,0 +1,18 @@
+.Todo h3 {
+  margin-top: 0;
+}
+
+.Todo ul, .Todo ol {
+    list-style: none;
+    padding: 0;
+}
+
+.Todo ol li, .Todo ul li {
+  color: #444444;
+  padding: 3px 7px;
+  margin: 3px 0;
+}
+
+.Todo input, .Todo button {
+  font-size: 16px;
+}
